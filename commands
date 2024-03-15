@@ -1,0 +1,8 @@
+touch gourab.txt
+touch commands.txt
+nano gourab
+nano commands
+git add .
+git commit -m "Files added"
+git remote add origin
+git push origin master
